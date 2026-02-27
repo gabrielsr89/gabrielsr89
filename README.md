@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gabrielsr89
 - 👀 I’m interested in --> programming
 - 🌱 I’m currently learning --> springboot
-- 💞️ I’m looking to collaborate on --> devSpirit, We are an independent group
 - 📫 How to reach me --> gabrielsr89@gmail.com
 
 <!---
